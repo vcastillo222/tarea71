@@ -1,0 +1,17 @@
+idea -> cambiar condiciones de memorias swap y ver resultados-. 
+
+administrar memoria virtual swap 
+
+
+include iostream 
+include iostream
+include sstream 
+
+//transformar elementos convenientes 
+libreria map // estructura que guardara todo 
+
+
+std::map(std::string.unsigned long) readinfo(){
+
+std::ifstream metinfo("proc.);
+}
