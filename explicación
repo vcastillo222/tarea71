@@ -14,4 +14,105 @@ libreria map // estructura que guardara todo
 std::map(std::string.unsigned long) readinfo(){
 
 std::ifstream metinfo("proc.);
+std::map(std::string), unsigned long> infomap; 
+
+if(moreinfo.is_opne(){ 
+    std::string line; 
+
+iss>> ky >> value > unit; 
+key.pop.hack() "// elimina punto al final de la clave 
+newinfo_mapKey//tiene el nombre de la linea 
+newinfp_map(key) = value; 
+
 }
+
+newinfo.close);
+
+} else sM::care << "no se puede abrir /tal arc hiov"<<  sM::emm;
+} return newinfo_map; 
+
+//el programa debe ser el main, esa es la función utilitaria. 
+
+intmain(){
+  %%% new info = realnewinfo();
+std::cout << "memoriatotal"; << maininfo("maintotal")<<"std"<< std::endl; 
+std::cout << "memoria libre" << newinfo("mainfree")<< " std::endl;
+std::cout<<"memoria total en info" << newinfo("swap total") << "" << std::endl;
+std:cout << "memoria en swap libre:" << newinfo("swapfree") << "valor" << std::endl; 
+return 0; 
+
+}
+
+
+
+cierrre de programa. 
+
+
+ejemplo de compilador 
+
+
+
+
+
+mem fisicia 
+
+mem virtual 
+
+memoria fisica -> ram. 
+
+memoria virtual -> disco. 
+
+la diferencia entre los dos es físico vs virtual, un millón de veces más lento. 
+
+memoria ram saturada, un poco de memoria disco utilizada. 
+
+
+0000x
+....
+00x
+EOM.
+
+fin de la memoria ram. 
+
+extensión -> 
+000x2 
+000500x
+EOMV 
+memoria virtual . 
+
+EOM -> memoria free. Memoria libre. 
+
+Punto de intersección entre memoria libre. 
+
+dentro de mem free -> independiente de localización de memoria libre, se llama la memoria total. 
+
+Al pasar al lado físico, se busca el swap total. -> EOMV -> mem virtual. -> swap free. 
+
+servidor lleno de procesos -> no enviar más procesos. 
+
+para no saturar sistemas -> priorizar procesos más importantes. 
+
+peticióon espoerar ->  trabajan al ritmo de la máquina. 
+
+
+peticiones atendidas. 
+
+5 tx/s  
+peticiones 
+
+en 5 minutos. 
+
+1 tx/S 
+
+cuántos atiende el servicio 
+
+cuantas peticiones no se atendieron? 
+
+1500 pendientes. 
+
+300 
+
+5 min -> 300 
+20 min -> 1200 
+25 min ->  
+
